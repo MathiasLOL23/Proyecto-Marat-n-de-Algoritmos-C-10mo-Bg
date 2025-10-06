@@ -27,4 +27,5 @@ double calificacion; // Declara una variable de tipo double para almacenar la ca
         std::cout << "El estudiante REPROBO la asignatura. A seguir intentando. 😔" << std::endl;
     }
     return 0; // Indica que el programa finalizó con exito.
+
 }
